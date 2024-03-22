@@ -1,0 +1,28 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url("https://www.shutterstock.com/image-photo/stones-balance-pebbles-stack-over-600nw-154832543.jpg");
+  background-size: cover;
+}
+h2 {
+  color: green;
+  border: 5px solid black;
+}
+p {
+  color: red;
+}
+.map-area {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  margin: 10px;
+}
+button {
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
